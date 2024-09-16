@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Jordan Michael's gaming setup">
+    <title>Jordan Michael's Gaming Setup</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;  
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border: 2px solid #333;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Gaming Setup</h1>
+    </header>
+    <div class="container">
+        <img src="gaming-setup.jpg" alt="My Gaming Setup">
+        <p>Welcome to my gaming setup page! Here you can see my favorite gear and equipment.</p>
+    </div>
+</body>
+</html>
